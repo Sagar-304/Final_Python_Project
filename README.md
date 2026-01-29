@@ -31,8 +31,7 @@ Student-Management-System/
 ├── main.py
 ├── student.py
 ├── data.py
-├── utils.py
-└── README.md
+|── README.md
 
 
 ---
@@ -58,6 +57,7 @@ Student-Management-System/
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/student-management-system.git
+
 
 
 
